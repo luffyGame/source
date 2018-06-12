@@ -1,0 +1,1 @@
+local BuildDataModel = class("ItemDataModel",require("app.object.datamodel.item.ItemDataModel"))BuildDataModel.isBuild = truefunction BuildDataModel:GetSceneModelTid()    local param1 = self.cfg.param1    return  param1 and param1[1]endreturn BuildDataModel

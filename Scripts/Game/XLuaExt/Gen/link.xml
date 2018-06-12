@@ -1,0 +1,37 @@
+﻿
+
+<linker>
+
+	<assembly fullname="Assembly-CSharp">
+	    <type fullname="Game.DlgView" preserve="all"/>
+		<type fullname="Game.LuaInjector" preserve="all"/>
+		<type fullname="Game.LuaUtility" preserve="all"/>
+		<type fullname="FrameWork.AssetModel" preserve="all"/>
+		<type fullname="Game.ObjBase" preserve="all"/>
+		<type fullname="Game.Sprite" preserve="all"/>
+		<type fullname="Game.SceneItem" preserve="all"/>
+		<type fullname="Game.FurnitureItem" preserve="all"/>
+		<type fullname="Game.BasicModel" preserve="all"/>
+		<type fullname="Game.Effect" preserve="all"/>
+		<type fullname="Game.Equip" preserve="all"/>
+		<type fullname="FrameWork.JoyStick" preserve="all"/>
+		<type fullname="FrameWork.BarManager" preserve="all"/>
+		<type fullname="Game.EventHandler" preserve="all"/>
+		<type fullname="Game.LuaItem" preserve="all"/>
+		<type fullname="FrameWork.SimpleListViewItem`1[Game.LuaInjector]" preserve="all"/>
+		<type fullname="Game.LoopList" preserve="all"/>
+		<type fullname="Game.LongPressEventTrigger" preserve="all"/>
+		
+	</assembly>
+
+	<assembly fullname="UnityEngine.CoreModule">
+	    <type fullname="UnityEngine.Object" preserve="all"/>
+		<type fullname="UnityEngine.GameObject" preserve="all"/>
+		<type fullname="UnityEngine.Transform" preserve="all"/>
+		<type fullname="UnityEngine.RectTransform" preserve="all"/>
+		<type fullname="UnityEngine.Component" preserve="all"/>
+		<type fullname="UnityEngine.Time" preserve="all"/>
+		
+	</assembly>
+
+</linker>

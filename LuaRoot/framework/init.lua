@@ -1,0 +1,8 @@
+require("framework.class")
+require("framework.math")
+require("framework.functions")
+require("framework.event")
+require("framework.StateMachine")
+require("framework.AnimActor")
+require("framework.Commander")
+require("framework.Timer")

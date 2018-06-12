@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Scripts/Game/Trigger/EventTriggerManager.cs.meta
+guid: 37037f9f11caa440cb13f2310384aa0e
+timeCreated: 1526287562
+=======
+guid: 398495a50d71e422bb0b80434fa20c70
+timeCreated: 1526386401
+>>>>>>> 4f3db0e95ca15c54ded8a8d7e1590e3ca43a3547:Scripts/Game/XLuaExt/Gen/FrameWorkAssetModelWrap.cs.meta
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
